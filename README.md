@@ -1,0 +1,1 @@
+This is a web development project created for an Architecture Company. The website provides a digital platform to showcase the company's projects, team, and other related services. It aims to give visitors an easy-to-navigate interface where they can learn more about the company's expertise, view completed projects, and get to know the team behind the designs.
