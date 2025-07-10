@@ -16,6 +16,7 @@
             jQuery = require("jquery")(root);
           }
         }
+        
         factory(jQuery);
         return jQuery;
       };
